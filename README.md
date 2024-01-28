@@ -1,1 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbernardofortes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes
+&theme=midnight-purple&hide_border=True&layout=compact&count_private=true"/>
