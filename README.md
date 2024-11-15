@@ -6,7 +6,6 @@
 <img  width='45%' pointer-events='none' src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=True&layout=compact&count_private=true&hide=css"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/BrenoGondimR)
-<img src="https://i.imgur.com/N9eblkB.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 ## 🚀 Frameworks and Languages
 
