@@ -52,7 +52,7 @@
 
 <hr>
 
-  <summary>💼 <strong>Current occupation:</strong> Computer Science Student </summary>
+  <summary>💼 <strong>Current occupation:</strong> Computer Science student </summary>
 <div align="center">
 <br><p align="center">Profile Visits<b></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jbernadofortes}/count.svg" /></p> 
