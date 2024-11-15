@@ -5,7 +5,7 @@
 </div>
 
 
-### 💼 Function: Front-End Software Engineer.<br>
+
 
 ### About me
 
