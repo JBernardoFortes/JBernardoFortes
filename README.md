@@ -1,12 +1,3 @@
-
-<div>
-  <a href='https://github.com/jbernardofortes' position='relative' margin='auto'>
-    <img  width='45%' pointer-events='none' src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=True&layout=compact&count_private=true&hide=css"/>
-</div>
-
-
-
-
 ### About me
 
 > Hello, my name is Bernardo! I am a student passionate about innovation and technology, always with a self-taught approach and focused on excellence.
@@ -46,12 +37,8 @@
 
 ##
 
-<details>
   <summary>💼 <strong>Current occupation:</strong> Computer Science Student </summary>
 <div align="center">
 <br><p align="center">Profile Visits<b></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jbernadofortes}/count.svg" /></p> 
 <br></div>
-</details>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
