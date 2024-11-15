@@ -8,7 +8,7 @@
 > At the moment, I'm focusing on learning new front-end techniques; however, I'm also interested in AI and Machine Learning
 
 <div align='center'>
-<img  width='40%' pointer-events='none' src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=True&layout=compact&count_private=true&hide=css" min-width="300px" max-width="300px" width="300px"/>
+<img  width='100%' pointer-events='none' src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=True&layout=compact&count_private=true&hide=css" min-width="300px" max-width="300px" width="300px"/>
 
 </div>
 
