@@ -7,9 +7,10 @@
 
 > At the moment i'm focusing in learning new front-end techniques, however i'm also interested in backend technologies, IA and Machine Learning
 
-<hr>
+
 <img  width='30%' pointer-events='none' src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=True&layout=compact&count_private=true&hide=css" min-width="300px" max-width="300px" width="300px"/>
 
+<hr>
 ## 🚀 Frameworks and Languages
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -24,6 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
+<hr>
 
 
 
@@ -33,12 +35,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
 
+<hr>
+
 ## 🛠️ Tools and Others
 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+<hr>
 
 ## 🌐 Social Media
 
@@ -48,6 +53,7 @@
   <a href="https://www.linkedin.com/in/21jbernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<hr>
 ##
 
   <summary>💼 <strong>Current occupation:</strong> Computer Science Student </summary>
