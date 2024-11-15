@@ -11,6 +11,7 @@
 <img  width='30%' pointer-events='none' src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=True&layout=compact&count_private=true&hide=css" min-width="300px" max-width="300px" width="300px"/>
 
 <hr>
+
 ## 🚀 Frameworks and Languages
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
