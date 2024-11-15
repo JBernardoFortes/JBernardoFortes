@@ -54,7 +54,7 @@
 </div>
 
 <hr>
-##
+## Occupations
 
   <summary>💼 <strong>Current occupation:</strong> Computer Science Student </summary>
 <div align="center">
