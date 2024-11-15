@@ -2,7 +2,7 @@
 
 ### About me
 
-> Hello, my name is Bernardo! I am a student passionate about innovation and technology, always with a self-taught approach and focused on excellence.
+> Hello, my name is Bernardo! I am a student passionate about innovation and technology, always with a self-taught approach and focused on excellence. </br>
 > At the moment i'm focusing in learning new front-end techniques, however i'm also interested in backend technologies and IA / Machine Learning
 
 <img  width='45%' pointer-events='none' src="https://readme-stats.clckblog.space/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=True&layout=compact&count_private=true&hide=css" min-width="300px" max-width="300px" width="300px"/>
