@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?weight=900&size=18&letterSpacing=&duration=2500&color=93F842&background=5F207418&center=true&vCenter=true&lines=Welcome!!+;Hello%2C+my+name+is+Bernardo.)](https://git.io/typing-svg)
+
+
+
 ### About me
 
 > Hello, my name is Bernardo! I am a student passionate about innovation and technology, always with a self-taught approach and focused on excellence.
