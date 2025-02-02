@@ -58,4 +58,3 @@
 <br></div>
 
 
-[![Bernardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jbernardofortes&theme=elegant)](https://github.com/jbernardofortes/github-readme-activity-graph)
