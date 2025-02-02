@@ -56,3 +56,6 @@
 <br><p align="center">Profile Visits<b></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jbernadofortes}/count.svg" /></p> 
 <br></div>
+
+
+[![Bernardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jbernardofortes)](https://github.com/jbernardofortes/github-readme-activity-graph)
