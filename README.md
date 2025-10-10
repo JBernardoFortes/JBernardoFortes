@@ -2,9 +2,9 @@
 
 
 # Portfolio
- <h1>
+ <h3>
   <a href="https://jbernardofortes.github.io/portifolio/">Link</a>
- </h1>
+ </h3>
 
 # About me
 
