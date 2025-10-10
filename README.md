@@ -2,9 +2,11 @@
 
 
 # Portfolio
- <a href="https://jbernardofortes.github.io/portifolio/">Link</a>
+ <h1>
+  <a href="https://jbernardofortes.github.io/portifolio/">Link</a>
+ </h1>
 
-### About me
+# About me
 
 > Hello, my name is Bernardo! I am a student passionate about innovation and technology, always with a self-taught approach and focused on excellence. </br>
 
