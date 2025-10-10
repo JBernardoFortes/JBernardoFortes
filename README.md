@@ -2,7 +2,7 @@
 
 
  ### <a href="https://jbernardofortes.github.io/portifolio/" target="_blank" rel="noopener noreferrer">
- ### Portifolio [ CTRL + CLICK ]
+Portifolio [ CTRL + CLICK ]
  ### </a>
 
 
