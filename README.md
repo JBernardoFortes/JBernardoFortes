@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&letterSpacing=&duration=2500&pause=1000&color=93F842&background=5F207418&center=true&vCenter=true&width=1000&height=200&lines=Welcome!!+;Hello%2C+my+name+is+Bernardo." alt="Typing SVG"  /></a>
 
-<a href="jbernardofortes.github.io/portifolio/">Portifolio</a>
+
+### Portfolio
+<a href="jbernardofortes.github.io/portifolio/">Link</a>
 
 ### About me
 
