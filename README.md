@@ -2,7 +2,7 @@
 
 
 ### Portfolio
-<a href="jbernardofortes.github.io/portifolio/">Link</a>
+<a href="https://jbernardofortes.github.io/portifolio/">Link</a>
 
 ### About me
 
