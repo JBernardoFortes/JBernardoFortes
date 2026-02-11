@@ -10,7 +10,7 @@
 > At the moment, I'm focusing on learning new front-end techniques; however, I'm also interested in AI and Machine Learning
 
 <div align='center'>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbernardoFortes&theme=github_dark&hide_border=true&layout=compact&count_private=true&hide=css,scss" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbernardofortes&theme=github_dark&hide_border=true&layout=compact&count_private=true&hide=css,scss" />
 
 
 </div>
