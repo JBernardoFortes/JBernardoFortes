@@ -18,7 +18,7 @@
 
 <hr>
 
-## 🚀 Frameworks and Languages
+## Frameworks and Languages
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,14 +35,14 @@
 
 
 
-## 💾 Databases
+## Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%2332A852.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-## 🛠️ Tools and Others
+## Tools and Others
 
 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -51,7 +51,7 @@
 
 
 
-## 🌐 Social Media
+## Social Media
 
 <div> 
 
@@ -61,5 +61,5 @@
 
 <hr>
 
-  <summary>💼 <strong>Current occupation:</strong> Computer Science student </summary>
+  <summary> <strong>Current occupation:</strong> Computer Science student </summary>
 
