@@ -11,8 +11,17 @@
 
 <div align='center'>
 
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jbernardofortes&show_icons=true&theme=material-palenight&include_all_commits&count_private=true&hide=css,scss"/>
+<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jbernardofortes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=css,scss"/>
 
+<img width="50%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/3-stats.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 </div>
 
