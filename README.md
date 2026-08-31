@@ -19,10 +19,6 @@
 
 <br>
 
-<!-- Stats -->
-<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/3-stats.svg"/>
-
-<br>
 
 <!-- Profile Details -->
 <img width="80%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
