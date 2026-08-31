@@ -19,9 +19,14 @@
 
 <br>
 
-<!-- Productive Time + Stats -->
-<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
-<img width="50%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<!-- Stats -->
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+
+<br>
+
+<!-- Profile Details -->
+<img width="80%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+
 </div>
 
 <hr>
