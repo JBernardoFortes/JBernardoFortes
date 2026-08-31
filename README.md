@@ -1,27 +1,27 @@
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&letterSpacing=&duration=2500&pause=1000&color=93F842&background=5F207418&center=true&vCenter=true&width=1000&height=200&lines=Welcome!!+;Hello%2C+my+name+is+Bernardo." alt="Typing SVG"  /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&letterSpacing=&duration=2500&pause=1000&color=93F842&background=5F207418&center=true&vCenter=true&width=1000&height=200&lines=Welcome!!+;Hello%2C+my+name+is+Bernardo." alt="Typing SVG"/></a>
 
 # About me
 
 > Hello, my name is Bernardo! I am a student passionate about innovation and technology, always with a self-taught approach and focused on excellence. </br>
 
-
 > At the moment, I'm focusing on learning new front-end techniques; however, I'm also interested in AI and Machine Learning
 
-<div align='center'>
+<div align="center">
 
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jbernardofortes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=css,scss"/>
+<!-- GitHub Stats -->
+<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jbernardofortes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=css,scss"/>
 
-<img width="50%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<br>
 
-<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<!-- Languages -->
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 
-<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<br>
 
-<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/3-stats.svg" />
-
-<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+<!-- Productive Time + Stats -->
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+<img width="49%" src="https://raw.githubusercontent.com/jbernardofortes/jbernardofortes/main/profile-summary-card-output/github_dark/3-stats.svg"/>
 
 </div>
 
@@ -39,36 +39,27 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
-
-
-
-
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%2332A852.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-
 ## Tools and Others
-
 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
 ## Social Media
 
-<div> 
+<div>
 
-  <a href = "mailto:joseberk2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt='email'></a>
-  <a href="https://www.linkedin.com/in/21jbernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" email='linkedin'></a> 
+  <a href="mailto:joseberk2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="email"></a>
+  <a href="https://www.linkedin.com/in/21jbernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+
 </div>
 
 <hr>
 
-  <summary> <strong>Current occupation:</strong> Computer Science student </summary>
-
+<summary><strong>Current occupation:</strong> Computer Science student</summary>
